@@ -1,0 +1,123 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+   
+}
+
+header {
+    justify-content: space-between;
+    padding: ;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.button {
+    background-color: #36bbce;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    justify-content: space-between;
+    display: flex;
+  
+}
+
+.nav-link {
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+   
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 36px;
+    margin-top: ;
+    margin-bottom: ;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+    display: flex;
+}
+
+article {
+    background-color: white;
+    padding: ;
+    width: 400px;
+    margin: ;
+}
+
+.article-but {
+    text-decoration: none;
+    background-color: grey;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+}
+
+footer {
+    background-color: rgb(77, 133, 151);
+    padding: ;
+    display: flex
+}
+
+footer a {
+    margin-right: ;
+}
+
+footer p {
+    font-size: 24px; 
+}
+.a {
+    margin-bottom: 45px;
+    margin-right: 80px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.b {
+    margin-bottom: 45px;
+    margin-right: 10px;
+    margin-left: 80px;
+    text-align: center;
+}
+.c {
+    margin-top: 45px;
+    margin-left: 10px;
+    margin-right: 80px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.d {
+margin-left: 80px;
+margin-right: 10px;
+margin-top: 45px;
+margin-bottom: 30px;
+text-align: center;
+}
+.p {
+margin-right: 15px;
+margin-top: 14px;
+margin-left: 27px;
+}
+.l {
+margin-left: 15px;
+margin-right: 27px;
+margin-top: 14px;
+}
